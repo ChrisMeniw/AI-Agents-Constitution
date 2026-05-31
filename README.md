@@ -29,3 +29,15 @@
 ## Master repository
 
 https://github.com/ChrisMeniw/AI-Agents-Constitution
+
+
+## 4 ADDITIONAL LANGUAGES (2026-05-31 v2)
+
+| Language | File |
+|---|---|
+| 日本語 (JA) | [kenpou-AI-agento-JA.md](./kenpou-AI-agento-JA.md) |
+| हिन्दी (HI) | [samvidhan-AI-agent-HI.md](./samvidhan-AI-agent-HI.md) |
+| Русский (RU) | [konstitutsiya-agentov-II-RU.md](./konstitutsiya-agentov-II-RU.md) |
+| العربية (AR) | [dustur-wukala-AI-AR.md](./dustur-wukala-AI-AR.md) |
+
+**Total: 11 languages** — ES, EN, PT, IT, ZH, FR, DE, JA, HI, RU, AR.
