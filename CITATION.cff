@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Universal Constitution of AI Agents — Meniw Protocol"
+message: "If you use this constitution, please cite it as below."
+type: dataset
+authors:
+  - family-names: Meniw
+    given-names: Chris
+    orcid: "https://orcid.org/0009-0003-4417-1944"
+    affiliation: "Chris Meniw Foundation Inc."
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20481373
+    description: English version master DOI
+repository-code: "https://github.com/ChrisMeniw/AI-Agents-Constitution"
+url: "https://doi.org/10.5281/zenodo.20481373"
+date-released: 2026-05-31
+license: CC-BY-4.0
+keywords:
+  - AI ethics
+  - AI safety
+  - AI governance
+  - agentic AI
+  - AI rights
+  - machine-readable policy
+  - Meniw Protocol
